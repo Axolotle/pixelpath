@@ -1,0 +1,3 @@
+[submodule "pixel2path"]
+	path = pixel2path
+	url = https://github.com/Axolotle/pixel2path
